@@ -7,19 +7,17 @@
 
 @if (Model.WillJoin == true)
 {<div class=" text-center">
-  <img src="~/Images/msdeveloper.jpg"/>
+  <img src="~/Images/celebrate.jpg"/>
     <h1>Thank you!</h1>
 
-    Congratulations - @Model.Name,
-    <p>Your seat is reserved for the Microsoft Developer COnference | September 18-19</p>
-    <p>Thank you for registering for the Microsoft Developer Conference.</p>
-    <p>Your Registration has been confirmed.We look forward to seeing you at the event.</p>
-    <p>Please join 10 minutes early to familiarize yourself with the digital platfgorm and ensure you do join our session</p>
+    Thank you candidate , @Model.Name,
+    <p>Thank you for registering for the conference.</p>
+    <p>Your Registration has been confirmed.</p>
  </div>}
 
 else
 {
-    <h3>Sorry to hear that you can't make it , but htanks for letting us know. We will arrange you recorded session.</h3>
+    <h3>Sorry to hear that you can't make it , but thanks for letting us know. We will arrange you another date for the virtual conference.</h3>
 }
 
-<div>Click <a asp-action="ListResponses">here</a>to see who is coming</div>
+<div><h1>Click <a asp-action="ListResponses"> here </a>to see who is coming</h1></div> 

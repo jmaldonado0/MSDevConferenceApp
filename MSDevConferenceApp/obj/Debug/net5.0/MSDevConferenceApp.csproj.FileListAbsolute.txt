@@ -381,7 +381,6 @@ C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net
 C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net5.0\MSDevConferenceApp.RazorAssemblyInfo.cache
 C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net5.0\MSDevConferenceApp.RazorAssemblyInfo.cs
 C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net5.0\staticwebassets\MSDevConferenceApp.StaticWebAssets.Manifest.cache
-C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net5.0\staticwebassets\MSDevConferenceApp.StaticWebAssets.xml
 C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net5.0\scopedcss\bundle\MSDevConferenceApp.styles.css
 C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net5.0\MSDevConferenceApp.TagHelpers.input.cache
 C:\Users\Fluffy\source\repos\MSDevConferenceApp\MSDevConferenceApp\obj\Debug\net5.0\MSDevConferenceApp.TagHelpers.output.cache
